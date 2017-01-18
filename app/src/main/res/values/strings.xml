@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreateService</string>
+    <string name="ggs_press">Press</string>
+    <string name="ggs_tv_serviceprovide">Which service you are providing?</string>
+    <string name="dummy_name">Dummy</string>
+    <string name="search">Search</string>
+
+</resources>
